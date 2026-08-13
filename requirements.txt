@@ -1,0 +1,13 @@
+python>=3.8
+
+# Core dependencies
+torch
+torchvision
+numpy
+scipy
+matplotlib
+
+# Optional (if using physics_augment.py or other extensions)
+# - physics-augment (if external package exists)
+# - open3d (if needed for 3D data processing)
+# - scikit-learn (for advanced statistical processing)
